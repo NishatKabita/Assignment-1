@@ -15,3 +15,5 @@ The first map shows that number of 311 complaints by regions. The darker the col
 ii. Do you have any ideas on how to improve this data visualization to be more truthful and insightful?
 
 There is always a chance for improvements. This is my first time using QJIS software. I am learning about the tools of the software but I am still unsure of certain functionalities. Throughout the semester, we will be learning more use of the software and its tool which will help enhance my representation of the maps. Based on what I learned and while exploring the software on my own, I think I can improve the map representation by having my map layer on top of NY state map. This will help to more accurately determine and identify certain areas (cities) of the boroughs and the percentage of related 311 complaints, illegal fireworks and fireworks.
+
+![](https://github.com/NishatKabita/Assignment-1/blob/main/SUE%20HW%201%20MAPS.png =250x250)
